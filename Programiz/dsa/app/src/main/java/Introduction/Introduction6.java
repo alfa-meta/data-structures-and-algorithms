@@ -20,5 +20,26 @@ package Introduction;
  * @author tomas
  */
 public class Introduction6 {
+    public static void main(String[] args) {
+        System.out.println("Fib1000");
+        int temp;
+        
+        int first_term = 0;
+        int second_term = 1;
+        
+        System.out.println(first_term);
+        System.out.println(second_term);
+        
+        while (second_term <= 1000){
+            temp = second_term;
+            second_term += first_term;
+            first_term = temp;
+            System.out.println(temp);
+        }   
+        
+        System.out.println("End of Program!");
+        System.out.println("End of Fib1000");
+        System.out.println("End of Introduction");
+    }
     
 }
