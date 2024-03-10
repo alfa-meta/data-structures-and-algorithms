@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="DSA Introduction" unique_id="14" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1710111320" ts_lastsave="1710111330">
+    <node name="What is an Algorithm?" unique_id="12" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1710086145" ts_lastsave="1710111332">
+      <rich_text scale="h1">What is an Algorithm?</rich_text>
+      <rich_text>
+
+	Algorithm - is a set of well-defined instructions to solve a particular problem.
+		It takes a set of inputs and produces the desired output.
+		
+	Quality of a Good Algorithm:
+		Input and output should be defined precisely.
+		Each step in the algorithm should be clear and unambiguous.
+		An algorithm shouln't include computer code. Instead, the algorithm should be written in such a way that it can be used in different programming languages.
+		
+		</rich_text>
+    </node>
+    <node name="Data Structure and Types" unique_id="13" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1710111296" ts_lastsave="1710112511">
+      <rich_text scale="h1">What are Data Structures?</rich_text>
+      <rich_text>
+
+	Data Structure - is a storage that is used to store and organize data.
+		It is a way of arrangin data on a computer so taht it can be accessed and updated efficiently.
+		
+		Can be said that DS is the collection of data types arranged in a specific order.
+		
+	Types of Data Structures:
+		Linear data structure
+		Non-linear data structure
+	
+	
+</rich_text>
+      <rich_text scale="h2">	Linear Data Structures:</rich_text>
+      <rich_text>
+		In linear data structures, the elements are arranged in sequence one after the other.
+		
+		Popular Linear Structures:
+			Arrays
+			Stacks
+			Queues
+			Linked Lists
+		
+		Array Data Structure:
+			Elements are arranged in continous memory.
+			All elements of an array are of the same type.
+			The Type of elements that can be stored in teh form of arrays is determined by the Programming Language.
+			
+		Stack Data Structure:
+			Elements are stored in LIFO principle. Last in First out.
+			
+		Queue Data Structure:
+			Elements are stored in FIFO principle. First in First out.
+
+		Linked List Data Structure:
+			Data elements are connected through a series of nodes.
+			Each node contains the data items and address to the next node.
+			
+	
+</rich_text>
+      <rich_text scale="h2">	Non-Linear Data Structures:</rich_text>
+      <rich_text>
+		These Data Structures are not in any sequence.
+		Instead they are arranged in a hierarchical manner, where one element will be connected to one or more elements.
+		
+		Graph Data Structure:
+			Each node is called a vertex.
+			Each vertex is connected to other vertices through edges.
+		
+		Tree Data Structure:
+			All nodes are connected via vertices and edges.
+			Onle one edge between two vertices.</rich_text>
+    </node>
+    <node name="Why Learn DSA?" unique_id="15" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1710112511" ts_lastsave="1710113533">
+      <rich_text scale="h1">What are Algorithms?</rich_text>
+      <rich_text>
+
+	Algorithm - a mention of steps to solve a problem.
+	
+	DSA goes through solutions to standard problems in detail and gives you an insight into how efficient it is to use each one of them.
+	
+	Time to run code = number of instructions * time to execute each instruction.
+	
+	Number of instructions depends on your code.
+	
+	Time taken to execute each code depends on your machine and compiler.
+	
+</rich_text>
+      <rich_text scale="h2">	More on Scalability:</rich_text>
+      <rich_text>
+		
+		Scalability - is scale + ability, which means the quality of an algorithm/system to handle the problem of larger size.
+		
+		Logarithmically scalable problem - if the size of the problem is squared, the time taken ot solve it is only doubled.
+		
+		Age group problem:
+			Can be solved with Binary Search algorithm
+			
+		Rubik's Cube Problem:
+			Can be solved with Dijkstra's Algorithm.
+			
+		DNA Problem:
+			Can be solved with KMP Algorithm.
+			
+			
+	Distributed System/Computer - is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another.</rich_text>
+    </node>
+  </node>
+</cherrytree>
