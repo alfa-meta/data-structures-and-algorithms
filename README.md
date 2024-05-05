@@ -1,2 +1,2 @@
 # data-structures-and-algorithms
-A repository to track my DSA journey
+A repository to track my DSA journey from LeetCode.
