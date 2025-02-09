@@ -1,21 +1,17 @@
+from collections import defaultdict
+
 def function(nums: list[int], k: int) -> int:
-    curr = ans = 0
-    count: dict = {}
-    count = 0
+    counts = defaultdict(int)
+    counts[0] = 1
+    ans = curr = 0
 
-    for i in nums:
-        curr += i
-        if i % 2 == 0:
-            count += 1
-        
-        if count > k:
-            if curr[-1] % 0:
-                count -= 1
-            curr = curr - curr[-1]
-        
+    for num in nums:
+        curr += num % 2
+        ans += counts[curr - k]
+        counts[curr] += 1
         
 
-    return 0
+    return ans
 
 
 print(function([1,1, 2,1,1], 3 ))
