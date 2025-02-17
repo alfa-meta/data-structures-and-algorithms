@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="2" master_id="0" name="Chapter 1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1739772212" ts_lastsave="1739775025">
+    <rich_text>Introduction to Data Structures:
+	
+	PAPP - Problem, Algorithm, Program, Process
+	
+	Algorithm - a sequence of steps to accomplish the task.
+	
+	Process - execution of the program.
+	
+	Data Structures - include the organization of records into complex types.
+	
+	Data Types - constraints values that a variable can take and define operations that can be performed on it.
+	
+	Old C had integers hold 16 bits now its 32 bits.
+	
+	int data type constraints:
+		a) Types of values that can be stored in an integer type variable.
+		b) Range of values that can be stored in such a variable.
+		c) Organization of memory (1 bit will be store the sign infromation and the rest binary equivalent of a given number.
+		
+		
+		
+Types of Data Structures:
+	
+	Arrays -
+		Data is of the same type
+		Elements are stored at consecutive memory locations.
+		Elements of the array will be represented by the name of the array followed by the [] contianing the index of the element.
+		Index starts at 0.
+	
+	Two-dimensional arrays -
+		Table like Structures containing rows and columns.
+		Accessed by the name of the array, followed by two indices depicitng the row and column index. Example: int_array[9][3]
+	
+	LinkedList - a data structure in which the units called nodes are linked together.
+		Each node contains: information and address to the next node.
+		Address of last node is null/none.
+		In a doubly linked list each node contains the address of the previous node.
+	
+	Stack - is a linear data structure that follows the principle of Last in First Out (LIFO) or First in Last Out (FILO).
+		Stacks are useful when implementing recursion and in evaluating various types of expressions.
+	
+	Queue - is a linear data structure that follows the principle of First in First Out (FIFO).
+		Queues are used in the implementation of scheduling algorithms.
+	
+	Graph - is a set containing {V, E} wher eV is a finite non-empty set of vertices, and E is afinite non-empty set of edges.
+	
+	Trees - generally contain nodes depicting hierarchical relationships.
+		A graph that does not contain a cycle, isolated vertex, or isolated edges.
+		Good for sorting and searching.
+	
+	Operations that can be performed on each of the data structures:
+		Traversal - defines a way to visit each element of a given data structure.
+		
+		Insertion - the process of inserting a node in a given data structure.
+		
+		Deletion - the process of removing a node in a given data structure.
+		
+		Searching - looking through the data structure to find any element.
+		
+	Game of clones:
+		</rich_text>
+  </node>
+</cherrytree>
