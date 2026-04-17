@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/LeetCode - Data Structures and Algorithms/1. Arrays and Strings.md",
+                "file": "Courses/Algorithms, Fourth Edition/Chapter 2 - Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Arrays and Strings"
+              "title": "Chapter 2 - Recursion"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/LeetCode - Data Structures and Algorithms/1. Arrays and Strings.md",
+                "file": "Courses/Algorithms, Fourth Edition/Chapter 2 - Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Arrays and Strings"
+              "title": "Backlinks for Chapter 2 - Recursion"
             }
           },
           {
@@ -184,19 +184,29 @@
   },
   "active": "57abd71b6476ecca",
   "lastOpenFiles": [
-    "Pasted image 20260408021939.png",
-    "Courses/LeetCode - Data Structures and Algorithms/Code/Arrays and Strings/two_sorted_arrays.py",
-    "Pasted image 20260408014510.png",
-    "Courses/LeetCode - Data Structures and Algorithms/Code/Arrays and Strings/twosum.py",
-    "Courses/LeetCode - Data Structures and Algorithms/Code/Arrays and Strings/palindrome.py",
-    "Courses/LeetCode - Data Structures and Algorithms/Code/Arrays and Strings",
-    "Courses/LeetCode - Data Structures and Algorithms/Code/palindrome.py",
-    "Courses/LeetCode - Data Structures and Algorithms/Code",
-    "Courses/LeetCode - Data Structures and Algorithms",
-    "README.md",
+    "Courses/An Open Guide to Data Structures and Algorithms/Chapter 1.md",
+    "Courses/Algorithms, Fourth Edition/Chapter 2 - Recursion.md",
+    "Pasted image 20260416060016.png",
+    "Pasted image 20260416055957.png",
+    "Pasted image 20260416055929.png",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs/__pycache__/count_occurrences.cpython-314.pyc",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs/count_occurrences.py",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs/__pycache__/count_occurences.cpython-314.pyc",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs/__pycache__/__init__.cpython-314.pyc",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs/__pycache__",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs/__init__.py",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs/count_occurences.py",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/libs",
+    "pytest-cache-files-7_deeohs",
+    "Courses/An Open Guide to Data Structures and Algorithms/Code/Chapter 1/__pycache__/test_count_occurences.cpython-314-pytest-9.0.3.pyc",
+    "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
+    "Courses/Algorithms, Fourth Edition/Chapter 1.md",
     "Courses/LeetCode - Data Structures and Algorithms/1. Arrays and Strings.md",
-    "Courses",
-    "Theory/Algorithms",
-    "Theory"
+    "Pasted image 20260409175328.png",
+    "Pasted image 20260409175254.png",
+    "Pasted image 20260408021939.png",
+    "Pasted image 20260408014510.png",
+    "README.md"
   ]
 }
